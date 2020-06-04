@@ -1,3 +1,3 @@
 # skywalking
 skywalking监控springboot项目
-skywalking服务端如果要拉入elasticsearch，注意下载并安装对应elasticsearch版本的skywalking服务端
+skywalking服务端如果要接入elasticsearch，注意下载并安装对应elasticsearch版本的skywalking服务端
